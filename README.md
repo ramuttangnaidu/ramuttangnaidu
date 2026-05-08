@@ -164,20 +164,39 @@ Keep learning. Keep shipping.
 
 ---
 
-# 💻 Competitive Programming
+## 💻 Competitive Programming
 
 <div align="center">
 
-| Platform   | Focus                        |
-| ---------- | ---------------------------- |
-| Codeforces | Problem Solving & Algorithms |
-| LeetCode   | DSA & Interview Preparation  |
-| HackerRank | Programming Challenges       |
-| CodeChef   | Competitive Coding           |
+<table>
+  <tr>
+    <th>🌐 Platform</th>
+    <th>🎯 Focus</th>
+    <th>🔗 Profile</th>
+  </tr>
+  <tr>
+    <td><b>Codeforces</b></td>
+    <td>Problem Solving & Algorithms</td>
+    <td><a href="https://codeforces.com/profile/ramuttang"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td><b>LeetCode</b></td>
+    <td>DSA & Interview Preparation</td>
+    <td><a href="https://leetcode.com/u/kjzoYU15j9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a></td>
+  </tr>
+  <tr>
+    <td><b>CodeChef</b></td>
+    <td>Competitive Coding</td>
+    <td><a href="https://www.codechef.com/users/ramuttang05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a></td>
+  </tr>
+  <tr>
+    <td><b>HackerRank</b></td>
+    <td>Programming Challenges</td>
+    <td><a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a></td>
+  </tr>
+</table>
 
 </div>
-
----
 
 # 🌍 Connect With Me
 
