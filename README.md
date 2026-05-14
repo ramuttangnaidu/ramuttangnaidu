@@ -129,7 +129,7 @@ Keep learning. Keep shipping.
 ```
 
 ---
-
+<!--
 # 📊 GitHub Analytics
 
 
@@ -163,6 +163,7 @@ Keep learning. Keep shipping.
 </div>
 
 ---
+-->
 
 ## 💻 Competitive Programming
 
